@@ -10,7 +10,7 @@ public class Ahorcado {
 
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        String palabras[] = {"casa", "perro", "luis", "boli", "vida","Fiora"};
+        String palabras[] = {"casa", "perro", "luis", "boli", "vida","Fiora","Jax"};
         String letrasJugadas = "";
         String oculto[];
         int contaIntentos = 0;
